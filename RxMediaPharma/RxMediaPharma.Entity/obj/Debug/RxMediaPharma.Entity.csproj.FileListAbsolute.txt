@@ -1,0 +1,17 @@
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\RxMediaPharma.Entity.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\RxMediaPharma.Entity.pdb
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\obj\Debug\RxMediaPharma.Entity.csproj.AssemblyReference.cache
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\obj\Debug\RxMediaPharma.Entity.csproj.CoreCompileInputs.cache
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\obj\Debug\RxMediaPharma.Entity.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\obj\Debug\RxMediaPharma.Entity.pdb
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\RxMediaPharma.Entity.dll.config
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\EntityFramework.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\System.Data.SQLite.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\EntityFramework.xml
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\System.Data.SQLite.xml
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\log4net.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Entity\bin\Debug\log4net.xml

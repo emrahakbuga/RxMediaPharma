@@ -1,0 +1,13 @@
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\bin\Debug\RxMediaPharma.Business.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\bin\Debug\RxMediaPharma.Business.pdb
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\bin\Debug\RxMediaPharma.Entity.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\bin\Debug\RxMediaPharma.Entity.pdb
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\obj\Debug\RxMediaPharma.Business.csproj.AssemblyReference.cache
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\obj\Debug\RxMediaPharma.Business.csproj.CoreCompileInputs.cache
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\obj\Debug\RxMediaPharma.Business.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\obj\Debug\RxMediaPharma.Business.pdb
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\bin\Debug\RxMediaPharma.Entity.dll.config
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\bin\Debug\System.Data.SQLite.xml
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\bin\Debug\log4net.dll
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\bin\Debug\log4net.xml
+C:\Users\CantekinLenovo\source\repos\RxMediaPharma\RxMediaPharma.Business\obj\Debug\RxMediaPharma.Business.csproj.CopyComplete

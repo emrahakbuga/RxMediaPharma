@@ -1,0 +1,19 @@
+﻿DROP VIEW IF EXISTS [ilac_etkin_maddeler_list]
+
+
+create view ilac_etkin_maddeler_list
+as 
+select i.id, if.id as ILAC_FORM_ID, i.ilac_adi,
+em.etkinmadde,
+iem.miktar, iem.birim
+from ilaclar i
+join ilac_form if
+on i.[id] = if.ilac_id
+join ilac_etkin_maddeler iem
+on if.id = iem.ilac_form_id
+join etkin_maddeler em
+on em.id = iem.etkin_madde
+
+
+select * from ilac_etkin_maddeler_list where ilac_form_id=1
+select * from ilac_etkin_maddeler_list where ilac_form_id=6

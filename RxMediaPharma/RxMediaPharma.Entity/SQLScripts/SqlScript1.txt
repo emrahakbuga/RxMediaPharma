@@ -1,0 +1,15 @@
+DROP VIEW IF EXISTS [ilac_menu_list]
+
+
+create view ilac_menu_list
+as 
+select i.id,if.id as ILAC_FORM_ID ,i.ilac_adi, if.olcu, ia.ambalaj, ia.barkod, (i.ilac_adi || ' ' || if.olcu || ' ' || ia.ambalaj) as ILAC_ACIKLAMA
+from ilaclar i
+join ilac_form if
+on i.[id] = if.ilac_id
+join ilac_ambalaj ia
+on if.id = ia.ilac_form_id
+
+
+select * from ilac_menu_list
+

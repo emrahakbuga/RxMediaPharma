@@ -1,0 +1,24 @@
+﻿DROP VIEW IF EXISTS [ilac_detay]
+
+
+create view ilac_detay
+as 
+select i.id, if.id as ILAC_FORM_ID, i.ilac_adi, if.olcu, ia.ambalaj, ia.barkod,
+i.firma,
+ia.fiyat, ia.fiyattarih,ia.kamufiyati,ia.kamuodenen,
+(ia.kamufiyati - ia.kamuodenen) as FIYAT_FARK,
+ia.depocu, ia.imalatci,
+ia.jenerikorijinal,
+if.sgketkinkodu,
+i.atckodu,
+i.recete,
+if.[is_favorite],
+ia.ambalajresim
+from ilaclar i
+join ilac_form if
+on i.[id] = if.ilac_id
+join ilac_ambalaj ia
+on if.id = ia.ilac_form_id
+
+
+select * from ilac_detay where ilac_form_id=1
